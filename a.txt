@@ -1,2 +1,1 @@
-aa
-I modified after I switch to branch master.
+I solved the conflict.
