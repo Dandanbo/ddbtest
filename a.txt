@@ -1,1 +1,2 @@
-I modified this file after create branch 'branchTest'
+I modified this file after creating branch 'branchTest'
+I modified this file after renaming branch 'branchTest' to 'iss53'
